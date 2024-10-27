@@ -6,10 +6,10 @@ Este proyecto es una aplicación de consola en Java para realizar conversiones d
 
 ## 📋 Tabla de Contenidos
 - [Características](#-características)
-- [Requisitos](#-requisitos)
-- [Instalación](#-instalación)
+- [Requisitos](#%EF%B8%8F-requisitos)
+- [Instalación](#%EF%B8%8F-instalación)
 - [Uso](#-uso)
-- [Estructura del Proyecto](#-estructura-del-proyecto)
+- [Estructura del Proyecto](#%EF%B8%8F-estructura-del-proyecto)
 
 ## 💡 Características
 
