@@ -31,8 +31,8 @@ Este proyecto es una aplicación de consola en Java para realizar conversiones d
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu_usuario/conversor-de-divisas.git
-   cd conversor-de-divisas
+   git clone https://github.com/KJRM20/Conversor-monedas.git
+   cd Conversor-monedas
    ```
 2. **Compilar el proyecto:**
    Desde el terminal, compila el código fuente:
@@ -83,3 +83,7 @@ La estructura del proyecto es la siguiente:
 - ```Conversion.java```: define los atributos de cada conversión (moneda origen, destino, cantidad, resultado).
 - ```FiltroTasaCambio.java```: contiene la lógica principal para filtrar tasas de cambio de la moneda.
 - ```CalculadoraTasaDeCambio.java```: contiene los métodos para calcular la conversión en base a las tasas de cambio.
+
+
+<br><small>Realizado por Karen Rincón, 2024</small> <br><br>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KJRM20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-rincon/) 
