@@ -2,14 +2,14 @@
 [![language](https://img.shields.io/badge/language-Java-f89b24)](#)
 [![GitHub last commit](https://img.shields.io/github/last-commit/KJRM20/Conversor-monedas)](#)
 
-Este proyecto es una aplicación de consola en Java para realizar conversiones de divisas de forma rápida y sencilla. La aplicación permite convertir montos entre varias monedas predeterminadas o seleccionar otras monedas de origen y destino según las necesidades del usuario. También cuenta con un historial de conversiones y una funcionalidad para revisar las tasas de cambio actuales.
+Este proyecto es una aplicación de consola en Java para realizar conversiones de divisas de forma rápida y sencilla. La aplicación permite convertir montos entre varias monedas predeterminadas o seleccionar otras monedas de origen y destino según las necesidades del usuario. También cuenta con un historial de conversiones.
 
 ## 📋 Tabla de Contenidos
-- [Características](#características)
-- [Requisitos](#requisitos)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Estructura del Proyecto](#estructura-del-proyecto)
+- [Características](#-características)
+- [Requisitos](#-requisitos)
+- [Instalación](#-instalación)
+- [Uso](#-uso)
+- [Estructura del Proyecto](#-estructura-del-proyecto)
 
 ## 💡 Características
 
@@ -19,7 +19,6 @@ Este proyecto es una aplicación de consola en Java para realizar conversiones d
   - USD ↔️ COP
 - Conversión personalizada entre cualquier par de monedas.
 - Historial de conversiones para revisión y seguimiento.
-- Consulta de tasas de cambio actualizadas.
   
 ## ⚙️ Requisitos
 
